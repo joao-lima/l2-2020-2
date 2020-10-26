@@ -1,2 +1,30 @@
-# l2-2020-2
-Discplina Laboratório de Programação II - UFSM
+# ELC1067 - Laboratório de Programação II
+
+Professor: [João Vicente Ferreira Lima](http://www.inf.ufsm.br/~jvlima).
+Carga horária: 60h.
+Ementa oficial: https://www.ufsm.br/ementario/disciplinas/elc1067/
+Horários: segundas e quartas, 14:30 às 16:30.
+
+## Sobre a disciplina
+
+O objetivo da disciplina de Laboratório de Programação II é utilizar as principais estruturas de dados para solucionar problemas ligados à Computação.
+
+## Aulas e trabalhos
+
+|  # | Data             | Assunto          |
+|---:|------------------|:-----------------|
+|  1 | 2020-10-26 Seg   | Apresentação da disciplina   |
+|  2 | 2020-10-28 Qua   | Introdução C++  e *T1*  |
+|  3 | 2020-11-02 Seg   |  Alocação dinâmica de memória  |
+|  4 | 2020-11-04 Qua   |  *T2* |
+
+
+## Material de apoio
+
+- GDB [link 1](http://www.cs.umd.edu/~srhuang/teaching/cmsc212/gdb-tutorial-handout.pdf), [link 2](https://www.cs.cmu.edu/~gilpin/tutorial/), [link 3](http://www.lrc.ic.unicamp.br/~luciano/courses/mc202-2s2009/tutorial_gdb.txt). Ou a versão gráfica [DDD](https://www.gnu.org/software/ddd/)
+- Valgrind [link 1](http://valgrind.org/docs/manual/quick-start.html), [link 2](https://web.stanford.edu/class/cs107/guide_valgrind.html)
+- [GitHub Handbook](https://guides.github.com/introduction/git-handbook/)
+- [Git Cheat Sheets](https://github.github.com/training-kit/)
+- [Tech Talk: Linux Tolvards on Git](http://youtu.be/4XpnKHJAok8)
+- [Introduction to Git with Scott Chacon of GitHub](https://youtu.be/ZDR433b0HJY)
+
