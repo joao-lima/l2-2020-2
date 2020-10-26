@@ -1,8 +1,11 @@
 # ELC1067 - Laboratório de Programação II
 
 Professor: [João Vicente Ferreira Lima](http://www.inf.ufsm.br/~jvlima).
+
 Carga horária: 60h.
+
 Ementa oficial: https://www.ufsm.br/ementario/disciplinas/elc1067/
+
 Horários: segundas e quartas, 14:30 às 16:30.
 
 ## Sobre a disciplina
@@ -13,8 +16,8 @@ O objetivo da disciplina de Laboratório de Programação II é utilizar as prin
 
 |  # | Data             | Assunto          |
 |---:|------------------|:-----------------|
-|  1 | 2020-10-26 Seg   | Apresentação da disciplina   |
-|  2 | 2020-10-28 Qua   | Introdução C++  e *T1*  |
+|  1 | 2020-10-26 Seg   | Apresentação da disciplina ([slides](https://docs.google.com/presentation/d/1T4CeuY7qa9fxft_rojUq_8HISEPvTGEuuu9iv91vtGo/edit?usp=sharing) e [vídeo](https://youtu.be/cUiFPopsXR4))   |
+|  2 | 2020-10-28 Qua   | [Introdução C++](./aulas/introducao_cxx)  e *T1*  |
 |  3 | 2020-11-02 Seg   |  Alocação dinâmica de memória  |
 |  4 | 2020-11-04 Qua   |  *T2* |
 
