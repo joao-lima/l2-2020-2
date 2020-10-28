@@ -17,7 +17,7 @@ O objetivo da disciplina de Laboratório de Programação II é utilizar as prin
 |  # | Data             | Assunto          |
 |---:|------------------|:-----------------|
 |  1 | 2020-10-26 Seg   | Apresentação da disciplina ([slides](https://docs.google.com/presentation/d/1T4CeuY7qa9fxft_rojUq_8HISEPvTGEuuu9iv91vtGo/edit?usp=sharing) e [vídeo](https://youtu.be/cUiFPopsXR4))   |
-|  2 | 2020-10-28 Qua   | [Introdução C++](./aulas/introducao_cxx) ([vídeo](https://youtu.be/pB-MdBKNpNo), [slides](./aulas/02_intro_cxx/02_intro_cxx.pdf)) e *T1*  |
+|  2 | 2020-10-28 Qua   | [Introdução C++](./aulas/introducao_cxx) ([vídeo](https://youtu.be/pB-MdBKNpNo), [slides](./aulas/02_intro_cxx/02_intro_cxx.pdf)) e [T1](./trabalhos/T1)  |
 |  3 | 2020-11-02 Seg   |  Alocação dinâmica de memória  |
 |  4 | 2020-11-04 Qua   |  *T2* |
 
