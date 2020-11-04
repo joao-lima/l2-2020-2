@@ -17,8 +17,10 @@ O objetivo da disciplina de Laboratório de Programação II é utilizar as prin
 |  # | Data             | Assunto          |
 |---:|------------------|:-----------------|
 |  1 | 2020-10-26 Seg   | Apresentação da disciplina ([slides](https://docs.google.com/presentation/d/1T4CeuY7qa9fxft_rojUq_8HISEPvTGEuuu9iv91vtGo/edit?usp=sharing) e [vídeo](https://youtu.be/cUiFPopsXR4))   |
-|  2 | 2020-10-28 Qua   | [Introdução C++](./aulas/introducao_cxx) ([vídeo](https://youtu.be/pB-MdBKNpNo), [slides](./aulas/02_intro_cxx/02_intro_cxx.pdf)) e [T1](./trabalhos/T1) ([áudio](https://drive.google.com/file/d/19vJ1Ing68fJppxROfKU6oYhSKFe56pYK/view?usp=sharing))  |
-|  3 | 2020-11-04 Qua   |  Alocação dinâmica de memória e **T2**  |
+|  2 | 2020-10-28 Qua   | [Introdução C++](./aulas/introducao_cxx) ([vídeo](https://youtu.be/pB-MdBKNpNo), [slides](./aulas/02_intro_cxx/02_intro_cxx.pdf))  |
+|  **T1** | -               |  [T1](./trabalhos/T1) ([áudio](https://drive.google.com/file/d/19vJ1Ing68fJppxROfKU6oYhSKFe56pYK/view?usp=sharing)) |
+|  3 | 2020-11-04 Qua   |  Alocação dinâmica de memória ([slides](./aulas/03_memoria/03_memoria.pdf))  |
+|  **T2** |  -  |  [T2](./trabalhos/T2)  |
 |  4 | 2020-11-09 Seg   |   |
 
 
