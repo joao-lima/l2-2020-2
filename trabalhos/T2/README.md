@@ -3,7 +3,7 @@
 
 ## Deadline
 
-Prazo: **16/11/2020** pelo link do GitHub (https://classroom.github.com/a/u09I9YID).
+Prazo: **16/11/2020 (Seg)** pelo link do GitHub (https://classroom.github.com/a/u09I9YID).
 
 Você deve escolher seu nome na lista de alunos. Em seguida, o GitHub irá criar um repositório deste trabalho em seu usuário.
 
