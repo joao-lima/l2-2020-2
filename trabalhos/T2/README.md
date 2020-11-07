@@ -85,5 +85,6 @@ int main(int argc, char** argv)
 - Usar somente C++!
 - Obrigatório: `new` e `delete` para alocação dinâmica
 - Podem utilizar `std::vector`
+- A correção utilizará principalmente o `valgrind`
 - Não compila, zero.
 - Plágio, zero.
