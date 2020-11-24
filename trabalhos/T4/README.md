@@ -3,7 +3,7 @@
 
 ## Deadline
 
-Prazo: **30/11/2020 (Seg)** pelo link do GitHub (https://classroom.github.com/a/lrPivaxr).
+Prazo: **02/12/2020 (Qua)** pelo link do GitHub (https://classroom.github.com/a/lrPivaxr).
 
 Você deve escolher seu nome na lista de alunos. Em seguida, o GitHub irá criar um repositório deste trabalho em seu usuário.
 
