@@ -27,6 +27,7 @@ O objetivo da disciplina de Laboratório de Programação II é utilizar as prin
 |  **T3** |  -  |  [T3](./trabalhos/T3)  |
 |  7 | 2020-11-18 Qua   |  [Pilhas em C++](./aulas/07_pilhas) |
 |  **T4** |  -  |  [T4](./trabalhos/T4) |
+|  **T5** |  -  |  [T5](./trabalhos/T5) |
 
 
 
