@@ -19,7 +19,7 @@ Podemos percorrer uma ABB de três formas: pré-ordem, em-ordem, e pós-ordem.
 - **Percurso Em-ordem** - percorrer a sua sub-árvore esquerda em em-ordem, visitar a raiz, percorrer a sua sub-árvore direita em em-ordem.
 - **Percurso Pós-ordem** -  percorrer sua sub-árvore esquerda em pós-ordem, percorrer sua sub-árvore direita em pós-ordem, visitar a raiz.
 
-Dado um conjunto de números de uma ABB em percurso pré-ordem, o objetivo deste trabalho é encontrar o percurso pós-ordem da ABB.
+**Objetivo** - Dado um conjunto de números de uma ABB em percurso pré-ordem, o objetivo deste trabalho é encontrar o percurso pós-ordem da ABB.
 
 ## Test Driven Development (TDD)
 
