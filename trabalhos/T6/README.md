@@ -3,7 +3,7 @@
 
 ## Deadline
 
-Prazo: **21/01/2021 (Dom)** pelo link do GitHub (https://classroom.github.com/a/Q7xFQRri).
+Prazo: **31/01/2021 (Dom)** pelo link do GitHub (https://classroom.github.com/a/Q7xFQRri).
 
 Você deve escolher seu nome na lista de alunos. Em seguida, o GitHub irá criar um repositório deste trabalho em seu usuário.
 
