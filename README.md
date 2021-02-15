@@ -30,7 +30,7 @@ O objetivo da disciplina de Laboratório de Programação II é utilizar as prin
 |  **T5** |  -  |  [T5](./trabalhos/T5) |
 |  **T6** |  -  |  [T6](./trabalhos/T6) |
 |  **T7** |  -  |  [T7](./trabalhos/T7) |
-|  **TE** |  -  |  [T7](./trabalhos/TE) |
+|  **TE** |  -  |  [TE](./trabalhos/TE) |
 
 
 
