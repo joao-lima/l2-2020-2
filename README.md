@@ -18,19 +18,19 @@ O objetivo da disciplina de Laboratório de Programação II é utilizar as prin
 |---:|------------------|:-----------------|
 |  1 | 2020-10-26 Seg   | Apresentação da disciplina ([slides](https://docs.google.com/presentation/d/1T4CeuY7qa9fxft_rojUq_8HISEPvTGEuuu9iv91vtGo/edit?usp=sharing) e [vídeo](https://youtu.be/cUiFPopsXR4))   |
 |  2 | 2020-10-28 Qua   | [Introdução C++](./aulas/introducao_cxx) ([vídeo](https://youtu.be/pB-MdBKNpNo), [slides](./aulas/02_intro_cxx/02_intro_cxx.pdf))  |
-|  **T1** | -               |  [T1](./trabalhos/T1) ([áudio](https://drive.google.com/file/d/19vJ1Ing68fJppxROfKU6oYhSKFe56pYK/view?usp=sharing)) |
+|  **T1** | 2020-11-04 |  [T1](./trabalhos/T1) ([áudio](https://drive.google.com/file/d/19vJ1Ing68fJppxROfKU6oYhSKFe56pYK/view?usp=sharing)) |
 |  3 | 2020-11-04 Qua   |  Alocação dinâmica de memória ([vídeo](https://youtu.be/KxvOkY4ipII), [slides](./aulas/03_memoria/03_memoria.pdf))  |
-|  **T2** |  -  |  [T2](./trabalhos/T2)  |
+|  **T2** |  2020-11-16 Seg  |  [T2](./trabalhos/T2)  |
 |  4 | 2020-11-09 Seg   |  Dúvidas no Discord |
 |  5 | 2020-11-11 Qua   |  Dúvidas no Discord |
 |  6 | 2020-11-16 Seg   |  [Listas em C++](./aulas/06_listas) |
-|  **T3** |  -  |  [T3](./trabalhos/T3)  |
-|  7 | 2020-11-18 Qua   |  [Pilhas em C++](./aulas/07_pilhas) |
-|  **T4** |  -  |  [T4](./trabalhos/T4) |
-|  **T5** |  -  |  [T5](./trabalhos/T5) |
-|  **T6** |  -  |  [T6](./trabalhos/T6) |
-|  **T7** |  -  |  [T7](./trabalhos/T7) |
-|  **TE** |  -  |  [TE](./trabalhos/TE) |
+|  **T3** |  2020-11-23 Seg  |  [T3](./trabalhos/T3)  |
+|  7      | 2020-11-18 Qua   |  [Pilhas em C++](./aulas/07_pilhas) |
+|  **T4** |  2020-12-02 Qua  |  [T4](./trabalhos/T4) |
+|  **T5** |  2020-12-23 Qua  |  [T5](./trabalhos/T5) |
+|  **T6** |  2021-02-13 Sab  |  [T6](./trabalhos/T6) |
+|  **T7** |  2021-02-13 Sab  |  [T7](./trabalhos/T7) |
+|  **TE** |  2021-02-17 Qua  |  [TE](./trabalhos/TE) |
 
 
 
